@@ -1,0 +1,254 @@
+{
+    "cats": [
+        {
+            "catId": 1,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "catId": 2,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "catId": 3,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 4,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/1741205/pexels-photo-1741205.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 5,
+            "tags": ["orange", "funny"],
+            "url": "https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 6,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 7,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 8,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 9,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/2071873/pexels-photo-2071873.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 10,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/208984/pexels-photo-208984.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 11,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/1543793/pexels-photo-1543793.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 12,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/774731/pexels-photo-774731.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 13,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/2194261/pexels-photo-2194261.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 14,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/127028/pexels-photo-127028.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 15,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/69932/tabby-cat-close-up-portrait-69932.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 16,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 17,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/669015/pexels-photo-669015.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 18,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/2558605/pexels-photo-2558605.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 19,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/96938/pexels-photo-96938.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 20,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/126407/pexels-photo-126407.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 21,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/923360/pexels-photo-923360.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 22,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/1643457/pexels-photo-1643457.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 23,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/2071882/pexels-photo-2071882.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 24,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/1276553/pexels-photo-1276553.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 25,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/2061057/pexels-photo-2061057.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 26,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/68594/pexels-photo-68594.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 27,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/257532/pexels-photo-257532.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 28,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/821736/pexels-photo-821736.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 29,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/1521306/pexels-photo-1521306.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 30,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/982314/pexels-photo-982314.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 31,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/979247/pexels-photo-979247.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 32,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/1576193/pexels-photo-1576193.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 33,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 34,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/1183434/pexels-photo-1183434.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 35,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/65006/pexels-photo-65006.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 36,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/1022158/pexels-photo-1022158.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 37,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/1120049/pexels-photo-1120049.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 38,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/1444321/pexels-photo-1444321.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 39,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/248350/pexels-photo-248350.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 40,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/290164/pexels-photo-290164.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 41,
+            "tags": ["black", "funny"],
+            "url": "https://images.pexels.com/photos/1202481/pexels-photo-1202481.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 42,
+            "tags": ["orange", "funny"],
+            "url": "https://images.pexels.com/photos/572861/pexels-photo-572861.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 43,
+            "tags": ["black", "cute"],
+            "url": "https://images.pexels.com/photos/302280/pexels-photo-302280.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 44,
+            "tags": ["orange", "cute"],
+            "url": "https://images.pexels.com/photos/279360/pexels-photo-279360.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 45,
+            "tags": ["grey", "funny"],
+            "url": "https://images.pexels.com/photos/731553/pexels-photo-731553.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 46,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/96428/pexels-photo-96428.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 47,
+            "tags": ["grey", "cute"],
+            "url": "https://images.pexels.com/photos/720684/pexels-photo-720684.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 48,
+            "tags": ["white", "cute"],
+            "url": "https://images.pexels.com/photos/1461622/pexels-photo-1461622.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 49,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/1404824/pexels-photo-1404824.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "catId": 50,
+            "tags": ["white", "funny"],
+            "url": "https://images.pexels.com/photos/1112621/pexels-photo-1112621.jpeg?auto=compress&cs=tinysrgb&w=600"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "headlines": [
+        {
+            "header": "If you're looking for help with your new friend...",
+            "title": "cafe",
+            "description": "check out the 'new owners' page, where you can find a plethora of information to aid you and your friend on a new journey!",
+            "url": "./images/cafe.jpg"
+        },
+        {
+            "header": "Or, if you just want to see some funny cats...",
+            "title": "mott",
+            "description": "try out our random cat generator! Click on the button to view the image of a random cat!",
+            "url": "./images/mott.jpg"
+        },
+        {
+            "header": "And please be sure to give appreciation to the authors...",
+            "title": "authors",
+            "description": "Click below if you'd like to contact them!",
+            "url": "./images/authors.jpg"
+        }
+    ],
+
+    "carousel": [
+        {
+            "header": "Have you bought your friend any new toys recently?",
+            "description": "Click here to see more!"
+        },
+        {
+            "header": "New Owner?",
+            "description": "Click here to increase you cat knowledge!"
+        },
+        {
+            "header": "Want to see some funny cats?",
+            "description": "Check out our random cat image generator by clicking below!"
+        }
+    ]
+}

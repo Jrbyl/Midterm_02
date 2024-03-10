@@ -1,0 +1,84 @@
+{
+    "tips": [
+        {
+            "header": "1. Make sure your lifestyle is suitable for a cat",
+            "description": "You should know that you have the time to devote to a cat as well as having enough money to be able to afford necessities for yout cat. "
+        },
+        {
+            "header": "2. Find the right veterinarian",
+            "description": "It is extremely important that your cat is healthy and finding the right veterinarian is key."
+        },
+        {
+            "header": "3. Make a space for your cat",
+            "description": "Adjusting to a new home can be very difficult for a cat but allowing for a space that is just for the cat to feel safe can help them a lot."
+        },
+        {
+            "header": "4. Play with your cat",
+            "description": "playing with your cat is an important bonding experince that can bring you and your cat closer together. It also allows for your cat to get physical exercise which will help them maintain a healthy weight."
+        },
+        {
+            "header": "5. Add window pearches",
+            "description": "Cats love being able to observe their surroundings. Allowing for your cat to look outside will be very benefical towards their happiness."
+        },
+        {
+            "header": "6. Proper grooming",
+            "description": "While cats are usually capable of doing this themselves, grooming removes excess fur, prevents matting, and reduces shedding."
+        },
+        {
+            "header": "7. Learn about your cat",
+            "description": "Every cat is unique so its important to learn about their breed, any health concerns, behavior with other animals, and any history of trauma/neglect."
+        },
+        {
+            "header": "8. Set a healthy diet",
+            "description": "Most cats require a specific diet depending on their age, allergies, or health conditions. Consult a veterinarian for a specific diet."
+        },
+        {
+            "header": "9. Interact with your cat frequently",
+            "description": "While similar to playing, ensure you take time to take breaks with your cat outside of play."
+        },
+        {
+            "header": "10. Let your cat watch TV",
+            "description": "Cats surprisingly like watching TV, especially videos of birds, fish, or mice and any other animals they like to stalk."
+        }
+    ],
+
+    "facts": [
+        {
+            "description": "1. If a cat blinks slowly at you, it means they love you!"
+        },
+        {
+            "description": "2. The average cat sleeps for 16-18 hours per day."
+        },
+        {
+            "description": "3. Cats do not have collarbones!"
+        },
+        {
+            "description": "4. The oldest known pet cat existed 9,500 years ago."
+        },
+        {
+            "description": "5. In 1963 a cat went to space."
+        }
+    ],
+
+    "videos": [
+        {
+            "title": "Everything You Need for Your Cat | 10 Cat Essentials for New Guardians",
+            "url": "https://www.youtube.com/watch?v=KHmrh6eQ6EQ",
+            "image": "../images/video1.jpg",
+            "author": "Jackson Galaxy"
+        },
+        {
+            "title": "Instantly Improve Your Cat's Life with these 7 Things",
+            "url": "https://www.youtube.com/watch?v=2Ex99RuKqAw",
+            "image": "../images/video2.jpg",
+            "author": "Jackson Galaxy"
+        },
+        {
+            "title": "10 Things to Know AFTER Adopting a Cat",
+            "url": "https://www.youtube.com/watch?v=a8qNcy-48jU",
+            "image": "../images/video3.jpg",
+            "author": "The Purring Journal"
+        }
+    ]
+}
+

@@ -1,0 +1,74 @@
+{
+    "header": [
+        {
+            "header": "Welcome to the products page!",
+            "description": "Here, you can find a list of products your pet might enjoy! Clicking any items below will redirect you to another site where you can view or purchase the product!"
+        }
+    ],
+
+    "items": [
+        {
+            "product": "A cat carrier is essential for getting your cat from point A to point B. Whether its a trip to the vet or a fun ride in the car, you can't go wrong with a place to secure your cat outside of the house.",
+            "image": "../images/carrier.jpg",
+            "url": "https://www.amazon.com/gp/aw/d/B09LRQFLH6?ref=ppx_pop_mob_b_asin_title&th=1",
+            "id": "cat carrier",
+            "price": "$44.99"
+        },
+        {
+            "product": "Food/water bowls are the bare basics when it comes to cat ownership. Your cat will always come rushing when they hear them being filled!",
+            "image": "../images/bowls.jpg",
+            "url": "https://www.amazon.com/MILIFUN-Elevated-Tilted-Vomiting-Orthopedic/dp/B083VWG5RL/ref=sr_1_17?crid=2GZLNSNLEMWDX&dib=eyJ2IjoiMSJ9.HxRDGphc4s8I-Cn6yBfpRHHqqonspoCMW6SkO8f1O9sq2tJyx3BIbvtfnR_Oq9Kni3i3mgeDrLmJZbQ2L5YOFEE3wWxQCfn_Hf1IlQMAEzcvzLeE8yejGeLE35EltfScJ3JYcURlkwawtrXoqPZ0dSr-MU2WEc2Ce1bNHh8DAlpTKgAE9dHxtRl3gZnu46F0bnyEBK1jCQgZuxHVoYPtwC9Vrw1Qr4DszXaR4ZmjpPknxt0sBEO5ddFrKvzwSAWOvzVHChIWFnzTwH-AWBiYoe5P2nCUvsmuMa6TAUnaur0.Af6x8RzuBHBREiapkgZPqdMe0G7JXRSH-pCXyHTdw1A&dib_tag=se&keywords=cat%2Bbowls&qid=1709598985&sprefix=cat%2Bbowl%2Caps%2C119&sr=8-17&th=1",
+            "id": "food bowls",
+            "price": "$11.99"
+        },
+        {
+            "product": "Cat towers are a great place for your cat to hang out. Cats love having high places to sit so they can get a good view of their surroundings!",
+            "image": "../images/tower.jpg",
+            "url": "https://www.amazon.com/Yaheetech-Condo-Scratching-Board-Perches/dp/B07V3PRNZT/ref=sr_1_23?crid=2IK4PD8VXGC3T&dib=eyJ2IjoiMSJ9.aQ_uSjHQUgzzvyuqFjJAX3_Tph0YIY2SGs8LGCsXsbDDPViXpihFiSCenaTVRm5IfuQxJPRceI3VwJ6M2nVBLeoDUfxhHfExqZXnkdzE40mxCvzl_TAGWksel0KXLwPjdrLGMdBI2igIIpocxf03Juat_m9SIn-yR47_trXjjUvWi5yYpfMOJwgUh-b8qOfbh-eGGqcZF_LIBecYz76wGREIoa0tENNW41BdARGtjqzqReSqK9FFCP5pyG4zrs0zz7-T3QmPjbudMiF9qGObFvImINtRxLwTRhSSaJW_Lx0.Au-LhzE9yNcqbsUzYHk6GQIE55PAxdModyLzR9eP9kg&dib_tag=se&keywords=cat%2Btower&qid=1709599178&sprefix=cat%2Btowe%2Caps%2C141&sr=8-23&th=1",
+            "id": "cat tower",
+            "price": "$67.99"
+        },
+        {
+            "product": "Two toys and a scratching post combined into one, your cat will love it!",
+            "image": "../images/toy1.jpg",
+            "url": "https://www.amazon.com/PEEKAB-Scratching-Kitten-Scratcher-Tracks/dp/B07XM8D4C8/ref=sr_1_10?crid=BMARTUGTHGSH&dib=eyJ2IjoiMSJ9.tcRcTn__PH35hmVBGhSJWu7fXUszUjJAI0ZPeNo5VxMk7Gp9bAopjPl-fJ110p4mx819iGXPy1UFBe3E4Casz03r4sM_ZL6zNWxAIVEs37XdBYt_rwAI-O3_pfLkXOyVJPVxZR7xExDmlV9ZrvhUOW8p4e-ujWFg2nzUY9HOYy39Xk7a3FBhY-QxjG1L-dxdIioOS-pUXn6SbQdqtvOzcoEy0lRpWMI3Qz9nM_9XDRcpM2jb01E_DKsNWCAmFlKfiH2fYK--y7LmeZobtjwM9aGe1PkMIePjhhyndYr21Ks.tNWnufq-eFVlbCzPa3KYy-y2NqwKwKhAA02Gzjsfsrk&dib_tag=se&keywords=cat%2Btoy%2Btower&qid=1709599280&sprefix=cat%2Btoy%2Btower%2Caps%2C143&sr=8-10&th=1",
+            "id": "cat toy",
+            "price": "$29.97"
+        },
+        {
+            "product": "A tunnel is a great place for a cat to hide, which they love doing.",
+            "image": "../images/tunnel.jpg",
+            "url": "https://www.amazon.com/Kitty-City-Multifunction-Central-Diameter/dp/B07GLY131J/ref=sr_1_51?crid=1CJ793CPZE879&dib=eyJ2IjoiMSJ9.Nfm6JO9-pIPAiYzPFGkir_g4UpUrzMYFa2uJ6KFJyVKvjfJILd3Gw38H4leLWQ2NCxGVR5I9GRUcbyHjPgEggsInEuqE2NvVxwOz8rdxrZqGE4501nP09iOXYqOQnZN2khE5IFIePteX2kN7TgPrKrRiQPQLMLieUyKAXSDTIMJoQ4r30WV-yD-hPAMP0B-5EQzasToaJZ7cGKUVaaYDrX_y1MfxnGXLRP46c6T1QThd2jleb9_YCP2Z6KXrXj7CmuYnWyrJcfHglpofinPpdAy1b82Vfngf_oYswEJmZko.avgvVUOv8RuyL0AlGe9Cq1gb00gpM_wjwRPQtsHxAyU&dib_tag=se&keywords=cat%2Btunnel&qid=1709599466&sprefix=cat%2Btunnel%2Caps%2C114&sr=8-51&th=1",
+            "id": "cat tunnel",
+            "price": "$39.50"
+        },
+        {
+            "product": "The number one basic for all cat owners. Picking one that comes with bags and a scoop is advisable.",
+            "image": "../images/litterbox.jpg",
+            "url": "https://www.amazon.com/Omega-Paw-NRA15-1-Improved-Cleaning/dp/B07DTJB854/ref=sr_1_26?crid=13NIW2FMA8PAU&dib=eyJ2IjoiMSJ9.LZHJ3pz7ZT-rSnz1C0Hw0WWJWIInB1jJydHNJgoSY-syBSES759dgzw_nHxSsc4kZjl8MU_lIUHnWQWsfICvI7hiwZJ1CgBDQOGQW1-CgRFRQUkXZBc_4YP3b1pZH1zQW904xsFrlKwtnB-3RhsDY2R4dVC4RFb4Y31Oy2A54pMlEtasFdaYlGCkOjilsD9RlBPT7YVEyU7PAUfzzOBc0-5ZihEssTTcmRPf75ogXMtN7fuHvx6loyFAMmMvZBx_G8zNtiuhoiJOhgSZW_KMS9ONvuamVM6tcAO4KNWa66o.J96Nz9Rg2NYi3Cui6yU7uG02UP73_EL6WTi9_yWtf1o&dib_tag=se&keywords=cat%2Blitter%2Bbox&qid=1709599588&sprefix=%2Caps%2C81&sr=8-26&th=1",
+            "id": "litterbox",
+            "price": "$49.99"
+        },
+        {
+            "product": "If your cat likes to explore the outside, and you like walks, consider a harness!",
+            "image": "../images/harness.jpg",
+            "url": "https://www.amazon.com/rabbitgoo-Adjustable-Harnesses-Breathable-Reflective/dp/B07SC7WFQN/ref=sr_1_5?crid=S3EM1HKOVAO5&dib=eyJ2IjoiMSJ9.FtneUb8YZPx6V-MdP0B9-zfdsJzbi480wP1UQWHfEWR8mjQlV_TxzT4kZs-1RxXNDdXpD40Kq7L4ilaYZrsny6XSIprhujKQcEJLjY_PDLheDBONDzmNjYQlpH50y2rs79zqeLMVCLmOk7jz7JQ3UgOqC44iYUyVkhlZaK6urkPwv9ayEq8xfSMjTs8JpxQc1qUroxGSV7X6xy1DbUYbPEex7PQErI3GaA_YZ5EhvM3q4UOxP-EEAtL5eswFMV6w092vr7WSbv6P109MQGE-Lky8bACCRsh1CKB4iuWc1MA.0eYDcxBenBYuGpANK8rVuq5-zKRXrIPRH5sF2iEV9es&dib_tag=se&keywords=cat%2Bleash&qid=1709599698&sprefix=cat%2Bleash%2Caps%2C113&sr=8-5&th=1",
+            "id": "cat harness",
+            "price": "$15.98"
+        },
+        {
+            "product": "Cats love chasing feathers. Using this toy for 10 minutes will get your cat riled up!",
+            "image": "../images/toy2.jpg",
+            "url": "https://www.amazon.com/Feather-Retractable-Assorted-Interactive-Exerciser/dp/B07F45GGPT/ref=sr_1_5?crid=3KI8WJ71GSZO9&dib=eyJ2IjoiMSJ9.7nTymlsFMGTh23-UbWS4Ba_wnR8_XDEGrrr2AxMUFlB35iIsnQH4FlF2Kng-Hll1YwaxOpg4WvjTzSNGEU0JWnFJFB40j6-zyACtjj0jijELy7LKfUfCPh3yQQQVYnvjbtcp_ctgJUUvHgpUXdVyio0Cp1ObLs0NoKYjWyJFvZb5ptO1E_TPNNxeqjDqXRqsyjeuSMMGC_KLamf4WbMUyVD5SDjkOkUlp2gHzUlMgfgiHMwynsrcHDGlOi-q4QKYZ2IKtvdT8NxoLU5qQmGGt6ZobBEkFEpeXjjl79VFYoM.JHafx0CwBNC-Qx-Kx1vBIHZVcgRyPpl_OEweY0kcqHU&dib_tag=se&keywords=cat+toys&qid=1709599774&sprefix=cat+toys%2Caps%2C109&sr=8-5",
+            "id": "cat toy",
+            "price": "$9.98"
+        },
+        {
+            "product": "Like feathers, cats love chasing laser pointers! This one even comes with 3 balls your cat can enjoy.",
+            "image": "../images/toy3.jpg",
+            "url": "https://www.amazon.com/Luli-Cat-Rechargeable-Multi-Function-Interactive/dp/B0BVWHGPXV/ref=sr_1_37?crid=1D0WZP23TWRJM&dib=eyJ2IjoiMSJ9.7YA7uVAA7BIcaaTaq6mgP0l9WkFwDoohgDMHmXr1ERvbK1MoBoqjdTRId03tcP1d6Y_CV0j9FAZOQyr-2uJu2_mAC8uH6lCGatLQxx3pbCtg9oiVaynE8vfGKrlk4aDEU7tdd3UOGih3v12oBLzC1wJXxd1XfMY5auoXo5JFddC5ZHijN54zzfPloN0s4SdrHngtbftD1QtASWUOq21JvLYH7k8i9ZIS6OgVahabrGeEfM5rvRSn4coWe9gQG3XnGosbMhNbh0sUkKjBOolRc7gZmLnBqrf5Wmgj5LaWzHI.hEq2peKSMWKEVsO59XoS-Ca8EFRSu_GkTIb_Zw__6Wg&dib_tag=se&keywords=cat+laser+pointer&qid=1709599870&sprefix=cat+laser+pointer%2Caps%2C112&sr=8-37",
+            "id": "cat toy",
+            "price": "$12.99"
+        }
+    ]
+}
